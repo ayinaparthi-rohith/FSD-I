@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>
+	IMAGE TAG</title>
+	</head>
+	<body align="center">
+	<img src="C:\0507\SASI-LOGO-960x188-1-800x157-1.png" alt="image not found" width="1000" height="200" style="background-color:white"> <br/>
+	<h1 style="color:blue">DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING</h1>
+	<h1 style="color:RED">FULL STACK DEVELOPMENT</h1>
+	<h2 align="left" style="color:RED">List of Experiments</h2>
+	<ol>
+		<li>HTML introdution</li>
+		<li>History of HTML</li>
+		<li>HTML </li>
+		<li>HTML</li>
+		<li>HTML</li>
+		<li>HTML</li>
+		<li>HTML</li>
+		<li>HTML</li>
+		<li>HTML</li>
+		<li>HTML</li>
+	</ol>
+</body>
+</html>
