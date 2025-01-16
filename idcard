@@ -1,0 +1,33 @@
+<html>
+<head>
+    <title>ID CARD</title>
+</head>
+<body>
+    <div align="center" >
+    <img src="https://sasi.ac.in/wp-content/uploads/2024/08/SASI-LOGO-960x188-1-800x157-1.png">
+    <h3>
+        Tadepalligudem-534101  &nbsp www.sasi.ac.in 
+    </h3>
+    
+    <h2 align="center" style="color:#1d641d "><img src="C:\codes\factshomepage.png" width="75" height="75">Values we live..... </h2>
+    <img src="C:\codes\idcard.png" alt="image not found" width="250" height="300">
+    <h2 style="color:#1d641d ;">AYINAPARTHI ROHITH</h2>
+    <h3 style="color: rgba(4, 4, 74, 0.825);">
+        <p>B.Tech - <b style="color: red;">CSE</b></p>
+        <p>
+            23K61A0507
+        </p>
+        <img src="C:\codes\barcode.gif">
+    </h3>
+    </div>
+    <div>
+        <div>
+            <div><p style="color: yellow;"><b>Aadhar No:698603446120</b></p></div>
+            <p>Father:AYINAPARTHI JAYABABU</p>
+            <p>Village:MODHUGAGUNTA</p>
+            <p>Cell:8985016178</p>
+            <pre align="right">Blood Group:O'+ve</pre>
+        </div>
+    </div>
+</body>
+</html>
