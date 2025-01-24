@@ -22,11 +22,16 @@
     </div>
     <div>
         <div>
-            <div><p style="color: yellow;"><b>Aadhar No:698603446120</b></p></div>
-            <p>Father:AYINAPARTHI JAYABABU</p>
-            <p>Village:MODHUGAGUNTA</p>
-            <p>Cell:8985016178</p>
-            <pre align="right">Blood Group:O'+ve</pre>
+            <div>
+                <font color="blue"><b>Aadhar No:</b></font>698603446120</p>
+            </div>
+            <p><font color="blue"><b>Father:</b></font>AYINAPARTHI JAYABABU</p>
+            <p><font color="blue"><b>Village:</b></font>MODHUGAGUNTA</p>
+            <p><font color="blue"><b>Cell:</b></font>8985016178</p>
+            <p><font color="blue"><b>Valid:</b></font>2023-2027</p>
+            <p><font color="blue"><b>B.G: </b></font>O+</p>
+            <img src="">
+            <p>Principal</p>
         </div>
     </div>
 </body>
